@@ -20,19 +20,6 @@ nav {
   justify-content: space-between;
 }
 
-#logo {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin: 100px;
-  mix-blend-mode: difference;
-  width: max(10rem, 16vw);
-  height: 100%;
-  background-color: transparent;
-  aspect-ratio: 35 / 4;
-  padding: 0.4 rem;
-} 
-
 .search {
   display: flex;
   align-items: center;
