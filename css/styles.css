@@ -26,7 +26,8 @@ nav {
   box-shadow: #1f6121 0px 0px 13px 2px;
 }
   
-#logo {
+/* #logo {
+  
   margin: 100px;
   mix-blend-mode: difference;
   width: max(10rem, 16vw);
@@ -34,7 +35,7 @@ nav {
   background-color: transparent;
   aspect-ratio: 35 / 4;
   padding: 0.4 rem;
-}
+} */
 
 .search {
   display: flex;
