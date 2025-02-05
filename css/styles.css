@@ -20,13 +20,13 @@ nav {
   justify-content: space-between;
 }
 
-.logoStore {
+/* .logoStore {
   background: transparent;
   border-radius: 30px;
   box-shadow: #1f6121 0px 0px 13px 2px;
-}
+} */y
   
-/* #logo {
+.logo {
   
   margin: 100px;
   mix-blend-mode: difference;
@@ -35,7 +35,7 @@ nav {
   background-color: transparent;
   aspect-ratio: 35 / 4;
   padding: 0.4 rem;
-} */
+} 
 
 .search {
   display: flex;
